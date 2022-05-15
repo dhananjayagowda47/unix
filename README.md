@@ -1,9 +1,11 @@
 1a. Write a shell script that takes a valid directory name as a argument recursively descend all
 the sub-directors, find the maximum length of any file in that hierarchy and writ the maximum
 value to the standard output.
-#1b. Write a shell script that accepts a path name and creates all the components in that path
+
+1b. Write a shell script that accepts a path name and creates all the components in that path
 name as directories. For example, if the script is named as mpc, then the command mpc a/b/c/d
 should create sub-directories a, a/b, a/b/c, a/b/c/d.
+
 2a. Write a shell script that accepts two filenames as arguments, checks if the permissions for
 these files are identical and if the permissions are identical, output common permissions
 otherwise output each filename followed by its permissions.
